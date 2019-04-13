@@ -1,0 +1,5 @@
+rn# enter your TokBox api key after the '=' sign below
+TOKBOX_API_KEY=46307922
+
+# enter your TokBox api secret after the '=' sign below
+TOKBOX_SECRET=0d87a60fc9250500fc275cfd80adc6f68797f3ec
