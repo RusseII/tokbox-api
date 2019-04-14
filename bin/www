@@ -4,7 +4,7 @@
  * Module dependencies.
  */
 require('dotenv').config();
-var app = require('../app');
+var app = require('../a');
 var debug = require('debug')('learning-opentok-node:server');
 var http = require('http');
 
@@ -12,7 +12,7 @@ var http = require('http');
  * Get port from environment and store in Express.
  */
 
-var port = normalizePort(process.env.PORT || '8080');
+var port = normalizePort(process.env.PORT || '8081');
 app.set('port', port);
 
 /**
